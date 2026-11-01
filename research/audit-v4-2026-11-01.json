@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "source": "manuscript/source.md",
+  "source_sha256": "5aa63032b0c9cf4ae358c7e09ce846b0d916f32b3b0440f0a515c30a63210800",
+  "word_count_method": "Whitespace tokens; heading markers and full FIGURE markers excluded; title/author included.",
+  "stats": {
+    "characters_with_spaces": 30572,
+    "words_excluding_figure_markers": 4115,
+    "yo_count": 0,
+    "em_dash_count": 0,
+    "figure_count": 14,
+    "errors": 0,
+    "warnings": 14
+  },
+  "assets": [
+    {
+      "path": "v4_door.png",
+      "width": 1122,
+      "height": 1402,
+      "width_mm_at_300ppi": 95.0
+    },
+    {
+      "path": "fig01_voice.png",
+      "width": 2400,
+      "height": 840,
+      "width_mm_at_300ppi": 203.2
+    },
+    {
+      "path": "fig02_poster.png",
+      "width": 2400,
+      "height": 1488,
+      "width_mm_at_300ppi": 203.2
+    },
+    {
+      "path": "fig03_context.png",
+      "width": 2400,
+      "height": 1296,
+      "width_mm_at_300ppi": 203.2
+    },
+    {
+      "path": "v4_chocolate.png",
+      "width": 1122,
+      "height": 1402,
+      "width_mm_at_300ppi": 95.0
+    },
+    {
+      "path": "fig05_wrappers.png",
+      "width": 2400,
+      "height": 1488,
+      "width_mm_at_300ppi": 203.2
+    },
+    {
+      "path": "fig04_neighbours.png",
+      "width": 2400,
+      "height": 1464,
+      "width_mm_at_300ppi": 203.2
+    },
+    {
+      "path": "v4_chair.png",
+      "width": 1122,
+      "height": 1402,
+      "width_mm_at_300ppi": 95.0
+    },
+    {
+      "path": "v4_compare.png",
+      "width": 2400,
+      "height": 1440,
+      "width_mm_at_300ppi": 203.2
+    },
+    {
+      "path": "v4_menu_photo.png",
+      "width": 1122,
+      "height": 1402,
+      "width_mm_at_300ppi": 95.0
+    },
+    {
+      "path": "v4_menu.png",
+      "width": 2400,
+      "height": 1632,
+      "width_mm_at_300ppi": 203.2
+    },
+    {
+      "path": "fig06_empty_state.png",
+      "width": 2400,
+      "height": 1248,
+      "width_mm_at_300ppi": 203.2
+    },
+    {
+      "path": "v4_states.png",
+      "width": 2400,
+      "height": 1752,
+      "width_mm_at_300ppi": 203.2
+    },
+    {
+      "path": "v4_cards.png",
+      "width": 2400,
+      "height": 1560,
+      "width_mm_at_300ppi": 203.2
+    }
+  ],
+  "issues": [
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 26,
+      "message": "Права требуют записи/подтверждения: v4_door.png"
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 34,
+      "message": "Права требуют записи/подтверждения: fig01_voice.png"
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 58,
+      "message": "Права требуют записи/подтверждения: fig02_poster.png"
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 76,
+      "message": "Права требуют записи/подтверждения: fig03_context.png"
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 91,
+      "message": "Права требуют записи/подтверждения: v4_chocolate.png"
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 99,
+      "message": "Права требуют записи/подтверждения: fig05_wrappers.png"
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 125,
+      "message": "Права требуют записи/подтверждения: fig04_neighbours.png"
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 148,
+      "message": "Права требуют записи/подтверждения: v4_chair.png"
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 196,
+      "message": "Права требуют записи/подтверждения: v4_compare.png"
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 209,
+      "message": "Права требуют записи/подтверждения: v4_menu_photo.png"
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 215,
+      "message": "Права требуют записи/подтверждения: v4_menu.png"
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 274,
+      "message": "Права требуют записи/подтверждения: fig06_empty_state.png"
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 290,
+      "message": "Права требуют записи/подтверждения: v4_states.png"
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 304,
+      "message": "Права требуют записи/подтверждения: v4_cards.png"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-01",
+  "method": "built-in imagegen",
+  "note": "Illustrative scenes; no actual event or product claims.",
+  "assets": [
+    {
+      "key": "door",
+      "prompt": "Use case: photorealistic-natural. Asset type: full-page editorial photograph for a sophisticated Russian nonfiction book about everyday graphic design. One photograph only, not a collage or a page layout. Tactile, observant, quiet documentary aesthetic, natural imperfect materials, subtle film grain, muted warm-gray and terracotta palette. Realistic proportions, precise details. No watermarks, no logos, no captions, no decorative typography. This is a fictional illustrative scene, not a record of a real event. Portrait composition 4:5. A close view of an ordinary older Saint Petersburg courtyard entrance: dark forest-green painted wooden double door, worn brass vertical handle, pale plaster wall, partly reflecting glass. Several small paper notices taped inside the glass, seen at an oblique angle, no readable writing. The main pale rectangular paper is off to the side among the notices, visually easy to miss. Show the environmental clutter and reflections that compete for attention, with calm beautiful photographic composition. Soft cloudy daylight. No people, no picturesque tourist landmarks. Door occupies most of frame; detail on paint, tape edges and handle.",
+      "file": "v4_door.png"
+    },
+    {
+      "key": "chocolate",
+      "prompt": "Use case: photorealistic-natural. Asset type: full-page editorial photograph for a sophisticated Russian nonfiction book about everyday graphic design. One photograph only, not a collage or a page layout. Tactile, observant, quiet documentary aesthetic, natural imperfect materials, subtle film grain, muted warm-gray and terracotta palette. Realistic proportions, precise details. No watermarks, no logos, no captions, no decorative typography. This is a fictional illustrative scene, not a record of a real event. Portrait composition 4:5. Two identical sized rectangular chocolate bars resting on a pale warm gray tabletop at an elegant modest still-life angle. One wrapper is matte uncoated warm beige paper with a small dark blank label; the other is solid deep vermilion red paper with a small blank ivory label. Both completely unbranded with absolutely no letters, words or digits. Paper folds at ends, one corner of thin silver foil subtly visible on both. Quiet comparison of material and color rather than luxury advertising. Natural window light, soft shadows, sparse composition, both bars fully visible. No chocolate chunks or garnish.",
+      "file": "v4_chocolate.png"
+    },
+    {
+      "key": "chair",
+      "prompt": "Use case: photorealistic-natural. Asset type: full-page editorial photograph for a sophisticated Russian nonfiction book about everyday graphic design. One photograph only, not a collage or a page layout. Tactile, observant, quiet documentary aesthetic, natural imperfect materials, subtle film grain, muted warm-gray and terracotta palette. Realistic proportions, precise details. No watermarks, no logos, no captions, no decorative typography. This is a fictional illustrative scene, not a record of a real event. Portrait composition 4:5. An intimate courtyard table ready for a small neighbor gathering: a long ordinary wooden table with three different simple chairs, two ceramic cups, a plain teapot, a cut loaf on brown paper, no decorations. Main visual is an empty wooden chair pulled slightly out toward the viewer, clearly an available place. In the distant upper edge just two partial adult silhouettes sitting and talking, no recognizable faces, leave the nearest empty place prominent. Soft late-afternoon cloudy light, aged plaster wall and small plants, quiet ordinary lived-in setting, no celebration glamour. Compose so the lower-left empty chair remains legible and upper part shows enough table to make its meaning ambiguous if cropped.",
+      "file": "v4_chair.png"
+    },
+    {
+      "key": "menu",
+      "prompt": "Use case: photorealistic-natural. Asset type: full-page editorial photograph for a sophisticated Russian nonfiction book about everyday graphic design. One photograph only, not a collage or a page layout. Tactile, observant, quiet documentary aesthetic, natural imperfect materials, subtle film grain, muted warm-gray and terracotta palette. Realistic proportions, precise details. No watermarks, no logos, no captions, no decorative typography. This is a fictional illustrative scene, not a record of a real event. Portrait composition 4:5. Overhead close photograph of a small cafe table, light ash wood. One simple espresso cup with coffee ring on saucer, one large completely blank ivory menu sheet, a small folded completely blank table tent, a metal teaspoon and a receipt turned blank side up. Crisp believable paper edges and tactile grain. The blank menu is dominant and can serve as a stage for typography placed later by a designer. Objects modest and slightly irregular, no flowers, no laptops, no hands, no lettering anywhere. Soft directional daylight from upper left, no harsh gloss. Editorial still life about the question of how much information belongs on a menu.",
+      "file": "v4_menu_photo.png"
+    }
+  ]
+}

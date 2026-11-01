@@ -1,0 +1,257 @@
+{
+  "version": "v4",
+  "fileKey": "3tFcd527exTT53dlDQkl5R",
+  "pageId": "0:1",
+  "rootNodeId": "4:2",
+  "url": "https://www.figma.com/design/3tFcd527exTT53dlDQkl5R/mybook?node-id=4-9",
+  "pageCount": 30,
+  "pages": [
+    {
+      "number": 1,
+      "id": "4:5",
+      "spread": "4:4"
+    },
+    {
+      "number": 2,
+      "id": "4:7",
+      "spread": "4:6"
+    },
+    {
+      "number": 3,
+      "id": "4:8",
+      "spread": "4:6"
+    },
+    {
+      "number": 4,
+      "id": "4:10",
+      "spread": "4:9"
+    },
+    {
+      "number": 5,
+      "id": "4:11",
+      "spread": "4:9"
+    },
+    {
+      "number": 6,
+      "id": "4:14",
+      "spread": "4:13"
+    },
+    {
+      "number": 7,
+      "id": "4:15",
+      "spread": "4:13"
+    },
+    {
+      "number": 8,
+      "id": "4:17",
+      "spread": "4:16"
+    },
+    {
+      "number": 9,
+      "id": "4:18",
+      "spread": "4:16"
+    },
+    {
+      "number": 10,
+      "id": "4:20",
+      "spread": "4:19"
+    },
+    {
+      "number": 11,
+      "id": "4:21",
+      "spread": "4:19"
+    },
+    {
+      "number": 12,
+      "id": "4:24",
+      "spread": "4:23"
+    },
+    {
+      "number": 13,
+      "id": "4:25",
+      "spread": "4:23"
+    },
+    {
+      "number": 14,
+      "id": "4:27",
+      "spread": "4:26"
+    },
+    {
+      "number": 15,
+      "id": "4:28",
+      "spread": "4:26"
+    },
+    {
+      "number": 16,
+      "id": "4:30",
+      "spread": "4:29"
+    },
+    {
+      "number": 17,
+      "id": "4:31",
+      "spread": "4:29"
+    },
+    {
+      "number": 18,
+      "id": "4:34",
+      "spread": "4:33"
+    },
+    {
+      "number": 19,
+      "id": "4:35",
+      "spread": "4:33"
+    },
+    {
+      "number": 20,
+      "id": "4:37",
+      "spread": "4:36"
+    },
+    {
+      "number": 21,
+      "id": "4:38",
+      "spread": "4:36"
+    },
+    {
+      "number": 22,
+      "id": "4:40",
+      "spread": "4:39"
+    },
+    {
+      "number": 23,
+      "id": "4:41",
+      "spread": "4:39"
+    },
+    {
+      "number": 24,
+      "id": "4:44",
+      "spread": "4:43"
+    },
+    {
+      "number": 25,
+      "id": "4:45",
+      "spread": "4:43"
+    },
+    {
+      "number": 26,
+      "id": "4:47",
+      "spread": "4:46"
+    },
+    {
+      "number": 27,
+      "id": "4:48",
+      "spread": "4:46"
+    },
+    {
+      "number": 28,
+      "id": "4:50",
+      "spread": "4:49"
+    },
+    {
+      "number": 29,
+      "id": "4:51",
+      "spread": "4:49"
+    },
+    {
+      "number": 30,
+      "id": "4:54",
+      "spread": "4:53"
+    }
+  ],
+  "spreads": [
+    {
+      "id": "4:4",
+      "index": 0
+    },
+    {
+      "id": "4:6",
+      "index": 1
+    },
+    {
+      "id": "4:9",
+      "index": 2
+    },
+    {
+      "id": "4:13",
+      "index": 3
+    },
+    {
+      "id": "4:16",
+      "index": 4
+    },
+    {
+      "id": "4:19",
+      "index": 5
+    },
+    {
+      "id": "4:23",
+      "index": 6
+    },
+    {
+      "id": "4:26",
+      "index": 7
+    },
+    {
+      "id": "4:29",
+      "index": 8
+    },
+    {
+      "id": "4:33",
+      "index": 9
+    },
+    {
+      "id": "4:36",
+      "index": 10
+    },
+    {
+      "id": "4:39",
+      "index": 11
+    },
+    {
+      "id": "4:43",
+      "index": 12
+    },
+    {
+      "id": "4:46",
+      "index": 13
+    },
+    {
+      "id": "4:49",
+      "index": 14
+    },
+    {
+      "id": "4:53",
+      "index": 15
+    }
+  ],
+  "components": [
+    {
+      "name": "Колонтитул",
+      "id": "4:55",
+      "property": "Текст#4:0"
+    },
+    {
+      "name": "Номер страницы",
+      "id": "4:57",
+      "property": "Текст#4:1"
+    }
+  ],
+  "photos": [
+    {
+      "id": "5:66",
+      "file": "v4_door.png"
+    },
+    {
+      "id": "5:191",
+      "file": "v4_chocolate.png"
+    },
+    {
+      "id": "5:297",
+      "file": "v4_chair.png"
+    },
+    {
+      "id": "5:390",
+      "file": "v4_menu_photo.png"
+    }
+  ],
+  "libraryDocumentId": "libfile_24d605c6e78c8191adace34848e19f18"
+}

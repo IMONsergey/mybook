@@ -1,0 +1,1410 @@
+{
+  "fig01_voice.png": {
+    "width": 1000,
+    "height": 350,
+    "background": "#F3F0E8",
+    "layers": [
+      {
+        "type": "rect",
+        "x": 0,
+        "y": 65,
+        "w": 320,
+        "h": 260,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 18,
+        "y": 20,
+        "text": "01  КОМАНДА",
+        "size": 18,
+        "font": "sans",
+        "color": "#B9422B",
+        "w": 800
+      },
+      {
+        "type": "rect",
+        "x": 340,
+        "y": 65,
+        "w": 320,
+        "h": 260,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 358,
+        "y": 20,
+        "text": "02  СООБЩЕНИЕ",
+        "size": 18,
+        "font": "sans",
+        "color": "#B9422B",
+        "w": 800
+      },
+      {
+        "type": "rect",
+        "x": 680,
+        "y": 65,
+        "w": 320,
+        "h": 260,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 698,
+        "y": 20,
+        "text": "03  РАЗГОВОР",
+        "size": 18,
+        "font": "sans",
+        "color": "#B9422B",
+        "w": 800
+      },
+      {
+        "type": "text",
+        "x": 20,
+        "y": 132,
+        "text": "ВХОД\nСО ДВОРА",
+        "size": 46,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 290
+      },
+      {
+        "type": "text",
+        "x": 360,
+        "y": 150,
+        "text": "Вход со двора",
+        "size": 30,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 290
+      },
+      {
+        "type": "text",
+        "x": 700,
+        "y": 140,
+        "text": "Вход\nсо двора",
+        "size": 38,
+        "font": "italic",
+        "color": "#20231F",
+        "w": 290
+      }
+    ]
+  },
+  "fig02_poster.png": {
+    "width": 1000,
+    "height": 620,
+    "background": "#F3F0E8",
+    "layers": [
+      {
+        "type": "rect",
+        "x": 15,
+        "y": 65,
+        "w": 460,
+        "h": 535,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 15,
+        "y": 12,
+        "text": "01  ПО ПОРЯДКУ",
+        "size": 22,
+        "font": "sans",
+        "color": "#B9422B",
+        "w": 800
+      },
+      {
+        "type": "rect",
+        "x": 525,
+        "y": 65,
+        "w": 460,
+        "h": 535,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 525,
+        "y": 12,
+        "text": "02  ПО РОЛЯМ",
+        "size": 22,
+        "font": "sans",
+        "color": "#B9422B",
+        "w": 800
+      },
+      {
+        "type": "text",
+        "x": 45,
+        "y": 110,
+        "text": "Вечер короткого кино",
+        "size": 29,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 420
+      },
+      {
+        "type": "text",
+        "x": 45,
+        "y": 195,
+        "text": "12 ноября",
+        "size": 29,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 420
+      },
+      {
+        "type": "text",
+        "x": 45,
+        "y": 280,
+        "text": "19:00",
+        "size": 29,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 420
+      },
+      {
+        "type": "text",
+        "x": 45,
+        "y": 365,
+        "text": "Зал 2",
+        "size": 29,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 420
+      },
+      {
+        "type": "text",
+        "x": 45,
+        "y": 450,
+        "text": "Вход свободный",
+        "size": 29,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 420
+      },
+      {
+        "type": "text",
+        "x": 555,
+        "y": 100,
+        "text": "ВЕЧЕР\nКОРОТКОГО\nКИНО",
+        "size": 58,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "rect",
+        "x": 555,
+        "y": 345,
+        "w": 400,
+        "h": 4,
+        "fill": "#B9422B"
+      },
+      {
+        "type": "text",
+        "x": 555,
+        "y": 380,
+        "text": "12 ноября  /  19:00",
+        "size": 31,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "text",
+        "x": 555,
+        "y": 465,
+        "text": "Зал 2",
+        "size": 30,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "text",
+        "x": 555,
+        "y": 525,
+        "text": "Вход свободный",
+        "size": 25,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 410
+      }
+    ]
+  },
+  "fig03_context.png": {
+    "width": 1000,
+    "height": 540,
+    "background": "#F3F0E8",
+    "layers": [
+      {
+        "type": "rect",
+        "x": 15,
+        "y": 65,
+        "w": 460,
+        "h": 445,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 15,
+        "y": 12,
+        "text": "01  ПРИГЛАСИТЬ",
+        "size": 22,
+        "font": "sans",
+        "color": "#B9422B",
+        "w": 800
+      },
+      {
+        "type": "rect",
+        "x": 525,
+        "y": 65,
+        "w": 460,
+        "h": 445,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 525,
+        "y": 12,
+        "text": "02  ПОКАЗАТЬ ПУТЬ",
+        "size": 22,
+        "font": "sans",
+        "color": "#B9422B",
+        "w": 800
+      },
+      {
+        "type": "text",
+        "x": 45,
+        "y": 110,
+        "text": "ВЕЧЕР\nКОРОТКОГО\nКИНО",
+        "size": 52,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 415
+      },
+      {
+        "type": "text",
+        "x": 45,
+        "y": 360,
+        "text": "12 ноября / 19:00",
+        "size": 28,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "text",
+        "x": 45,
+        "y": 420,
+        "text": "Зал 2 · Вход свободный",
+        "size": 25,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "text",
+        "x": 555,
+        "y": 120,
+        "text": "ЗАЛ 2",
+        "size": 83,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "text",
+        "x": 555,
+        "y": 230,
+        "text": "→",
+        "size": 160,
+        "font": "sans",
+        "color": "#B9422B",
+        "w": 400
+      },
+      {
+        "type": "text",
+        "x": 555,
+        "y": 420,
+        "text": "Вечер короткого кино",
+        "size": 27,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 410
+      }
+    ]
+  },
+  "fig04_neighbours.png": {
+    "width": 1000,
+    "height": 610,
+    "background": "#F3F0E8",
+    "layers": [
+      {
+        "type": "rect",
+        "x": 15,
+        "y": 65,
+        "w": 460,
+        "h": 520,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 15,
+        "y": 12,
+        "text": "01  СВОБОДНЕЕ",
+        "size": 22,
+        "font": "sans",
+        "color": "#B9422B",
+        "w": 800
+      },
+      {
+        "type": "rect",
+        "x": 525,
+        "y": 65,
+        "w": 460,
+        "h": 520,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 525,
+        "y": 12,
+        "text": "02  ТЕСНЕЕ",
+        "size": 22,
+        "font": "sans",
+        "color": "#B9422B",
+        "w": 800
+      },
+      {
+        "type": "text",
+        "x": 48,
+        "y": 110,
+        "text": "Б Л И Ж Е",
+        "size": 49,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 415
+      },
+      {
+        "type": "text",
+        "x": 555,
+        "y": 110,
+        "text": "БЛИЖЕ",
+        "size": 70,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 415
+      },
+      {
+        "type": "text",
+        "x": 45,
+        "y": 220,
+        "text": "Встреча соседей",
+        "size": 29,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "text",
+        "x": 555,
+        "y": 220,
+        "text": "Встреча соседей",
+        "size": 29,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "rect",
+        "x": 45,
+        "y": 310,
+        "w": 150,
+        "h": 110,
+        "fill": "#20231F"
+      },
+      {
+        "type": "rect",
+        "x": 280,
+        "y": 310,
+        "w": 150,
+        "h": 110,
+        "fill": "#20231F"
+      },
+      {
+        "type": "rect",
+        "x": 555,
+        "y": 310,
+        "w": 184,
+        "h": 110,
+        "fill": "#20231F"
+      },
+      {
+        "type": "rect",
+        "x": 739,
+        "y": 310,
+        "w": 15,
+        "h": 110,
+        "fill": "#B9422B"
+      },
+      {
+        "type": "rect",
+        "x": 754,
+        "y": 310,
+        "w": 184,
+        "h": 110,
+        "fill": "#20231F"
+      },
+      {
+        "type": "text",
+        "x": 45,
+        "y": 480,
+        "text": "Суббота / 14:00 / во дворе",
+        "size": 24,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "text",
+        "x": 555,
+        "y": 480,
+        "text": "Суббота / 14:00 / во дворе",
+        "size": 24,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 410
+      }
+    ]
+  },
+  "fig05_wrappers.png": {
+    "width": 1000,
+    "height": 620,
+    "background": "#F3F0E8",
+    "layers": [
+      {
+        "type": "rect",
+        "x": 70,
+        "y": 30,
+        "w": 370,
+        "h": 560,
+        "fill": "#E2D2B3"
+      },
+      {
+        "type": "rect",
+        "x": 560,
+        "y": 30,
+        "w": 370,
+        "h": 560,
+        "fill": "#B9422B"
+      },
+      {
+        "type": "text",
+        "x": 105,
+        "y": 100,
+        "text": "Рядом",
+        "size": 73,
+        "font": "serif",
+        "color": "#20231F",
+        "w": 310
+      },
+      {
+        "type": "text",
+        "x": 590,
+        "y": 100,
+        "text": "РЯДОМ",
+        "size": 66,
+        "font": "bold",
+        "color": "#FFFFFF",
+        "w": 320
+      },
+      {
+        "type": "text",
+        "x": 105,
+        "y": 340,
+        "text": "Темный\nшоколад",
+        "size": 38,
+        "font": "serif",
+        "color": "#20231F",
+        "w": 310
+      },
+      {
+        "type": "text",
+        "x": 590,
+        "y": 340,
+        "text": "Темный\nшоколад",
+        "size": 38,
+        "font": "sans",
+        "color": "#FFFFFF",
+        "w": 310
+      },
+      {
+        "type": "text",
+        "x": 105,
+        "y": 500,
+        "text": "70% какао / 100 г",
+        "size": 24,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 310
+      },
+      {
+        "type": "text",
+        "x": 590,
+        "y": 500,
+        "text": "70% какао / 100 г",
+        "size": 24,
+        "font": "sans",
+        "color": "#FFFFFF",
+        "w": 310
+      }
+    ]
+  },
+  "fig06_empty_state.png": {
+    "width": 1000,
+    "height": 520,
+    "background": "#F3F0E8",
+    "layers": [
+      {
+        "type": "rect",
+        "x": 15,
+        "y": 65,
+        "w": 460,
+        "h": 420,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 15,
+        "y": 12,
+        "text": "01  РЕЗУЛЬТАТ",
+        "size": 22,
+        "font": "sans",
+        "color": "#B9422B",
+        "w": 800
+      },
+      {
+        "type": "rect",
+        "x": 525,
+        "y": 65,
+        "w": 460,
+        "h": 420,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 525,
+        "y": 12,
+        "text": "02  СЛЕДУЮЩИЙ ШАГ",
+        "size": 22,
+        "font": "sans",
+        "color": "#B9422B",
+        "w": 800
+      },
+      {
+        "type": "text",
+        "x": 45,
+        "y": 105,
+        "text": "Расписание / 12 ноября",
+        "size": 25,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "text",
+        "x": 555,
+        "y": 105,
+        "text": "Расписание / 12 ноября",
+        "size": 25,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "text",
+        "x": 65,
+        "y": 245,
+        "text": "Ничего не найдено",
+        "size": 32,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 390
+      },
+      {
+        "type": "text",
+        "x": 555,
+        "y": 200,
+        "text": "12 ноября\nвстреч нет",
+        "size": 39,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 400
+      },
+      {
+        "type": "text",
+        "x": 555,
+        "y": 310,
+        "text": "Выбери другую дату",
+        "size": 26,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 400
+      },
+      {
+        "type": "rect",
+        "x": 555,
+        "y": 380,
+        "w": 400,
+        "h": 64,
+        "fill": "#20231F"
+      },
+      {
+        "type": "text",
+        "x": 576,
+        "y": 396,
+        "text": "Показать все события",
+        "size": 25,
+        "font": "sans",
+        "color": "#FFFFFF",
+        "w": 360
+      }
+    ]
+  },
+  "v4_compare.png": {
+    "width": 1000,
+    "height": 600,
+    "background": "#F3F0E8",
+    "layers": [
+      {
+        "type": "text",
+        "x": 25,
+        "y": 20,
+        "text": "ОДНО ИЗМЕНЕНИЕ",
+        "size": 23,
+        "font": "bold",
+        "color": "#B9422B",
+        "w": 800
+      },
+      {
+        "type": "rect",
+        "x": 25,
+        "y": 70,
+        "w": 450,
+        "h": 180,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "rect",
+        "x": 525,
+        "y": 70,
+        "w": 450,
+        "h": 180,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 120,
+        "text": "Б Л И Ж Е",
+        "size": 51,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 400
+      },
+      {
+        "type": "text",
+        "x": 560,
+        "y": 120,
+        "text": "БЛИЖЕ",
+        "size": 51,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 400
+      },
+      {
+        "type": "text",
+        "x": 25,
+        "y": 310,
+        "text": "НЕСКОЛЬКО ИЗМЕНЕНИЙ",
+        "size": 23,
+        "font": "bold",
+        "color": "#B9422B",
+        "w": 800
+      },
+      {
+        "type": "rect",
+        "x": 25,
+        "y": 360,
+        "w": 450,
+        "h": 205,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "rect",
+        "x": 525,
+        "y": 360,
+        "w": 450,
+        "h": 205,
+        "fill": "#B9422B"
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 415,
+        "text": "Б Л И Ж Е",
+        "size": 42,
+        "font": "serif",
+        "color": "#20231F",
+        "w": 400
+      },
+      {
+        "type": "text",
+        "x": 550,
+        "y": 390,
+        "text": "БЛИЖЕ",
+        "size": 83,
+        "font": "bold",
+        "color": "#FFFFFF",
+        "w": 400
+      },
+      {
+        "type": "text",
+        "x": 550,
+        "y": 510,
+        "text": "Встреча во дворе",
+        "size": 24,
+        "font": "sans",
+        "color": "#FFFFFF",
+        "w": 400
+      }
+    ]
+  },
+  "v4_menu.png": {
+    "width": 1000,
+    "height": 680,
+    "background": "#F3F0E8",
+    "layers": [
+      {
+        "type": "rect",
+        "x": 15,
+        "y": 65,
+        "w": 300,
+        "h": 590,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 15,
+        "y": 12,
+        "text": "01  ШУМ",
+        "size": 22,
+        "font": "sans",
+        "color": "#B9422B",
+        "w": 800
+      },
+      {
+        "type": "rect",
+        "x": 350,
+        "y": 65,
+        "w": 300,
+        "h": 590,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 350,
+        "y": 12,
+        "text": "02  ПРОПУСК",
+        "size": 22,
+        "font": "sans",
+        "color": "#B9422B",
+        "w": 800
+      },
+      {
+        "type": "rect",
+        "x": 685,
+        "y": 65,
+        "w": 300,
+        "h": 590,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 685,
+        "y": 12,
+        "text": "03  СВЯЗЬ",
+        "size": 22,
+        "font": "sans",
+        "color": "#B9422B",
+        "w": 800
+      },
+      {
+        "type": "text",
+        "x": 35,
+        "y": 92,
+        "text": "ДВОР",
+        "size": 56,
+        "font": "bold",
+        "color": "#B9422B",
+        "w": 260
+      },
+      {
+        "type": "text",
+        "x": 35,
+        "y": 200,
+        "text": "КАПУЧИНО",
+        "size": 30,
+        "font": "bold",
+        "color": "#B9422B",
+        "w": 260
+      },
+      {
+        "type": "text",
+        "x": 35,
+        "y": 264,
+        "text": "250 мл  240 ₽",
+        "size": 30,
+        "font": "bold",
+        "color": "#B9422B",
+        "w": 260
+      },
+      {
+        "type": "text",
+        "x": 35,
+        "y": 328,
+        "text": "ЛАТТЕ",
+        "size": 30,
+        "font": "bold",
+        "color": "#B9422B",
+        "w": 260
+      },
+      {
+        "type": "text",
+        "x": 35,
+        "y": 392,
+        "text": "350 мл  290 ₽",
+        "size": 30,
+        "font": "bold",
+        "color": "#B9422B",
+        "w": 260
+      },
+      {
+        "type": "text",
+        "x": 35,
+        "y": 456,
+        "text": "ЭСПРЕССО",
+        "size": 30,
+        "font": "bold",
+        "color": "#B9422B",
+        "w": 260
+      },
+      {
+        "type": "text",
+        "x": 35,
+        "y": 520,
+        "text": "30 мл  160 ₽",
+        "size": 30,
+        "font": "bold",
+        "color": "#B9422B",
+        "w": 260
+      },
+      {
+        "type": "text",
+        "x": 375,
+        "y": 100,
+        "text": "Двор",
+        "size": 36,
+        "font": "serif",
+        "color": "#20231F",
+        "w": 250
+      },
+      {
+        "type": "text",
+        "x": 375,
+        "y": 240,
+        "text": "Капучино  240",
+        "size": 24,
+        "font": "serif",
+        "color": "#20231F",
+        "w": 250
+      },
+      {
+        "type": "text",
+        "x": 375,
+        "y": 350,
+        "text": "Латте         290",
+        "size": 24,
+        "font": "serif",
+        "color": "#20231F",
+        "w": 250
+      },
+      {
+        "type": "text",
+        "x": 375,
+        "y": 460,
+        "text": "Эспрессо    160",
+        "size": 24,
+        "font": "serif",
+        "color": "#20231F",
+        "w": 250
+      },
+      {
+        "type": "text",
+        "x": 710,
+        "y": 100,
+        "text": "Двор",
+        "size": 36,
+        "font": "serif",
+        "color": "#20231F",
+        "w": 250
+      },
+      {
+        "type": "text",
+        "x": 710,
+        "y": 210,
+        "text": "Капучино",
+        "size": 30,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 250
+      },
+      {
+        "type": "text",
+        "x": 710,
+        "y": 255,
+        "text": "250 мл · 240 ₽",
+        "size": 24,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 250
+      },
+      {
+        "type": "text",
+        "x": 710,
+        "y": 340,
+        "text": "Латте",
+        "size": 30,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 250
+      },
+      {
+        "type": "text",
+        "x": 710,
+        "y": 385,
+        "text": "350 мл · 290 ₽",
+        "size": 24,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 250
+      },
+      {
+        "type": "text",
+        "x": 710,
+        "y": 470,
+        "text": "Эспрессо",
+        "size": 30,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 250
+      },
+      {
+        "type": "text",
+        "x": 710,
+        "y": 515,
+        "text": "30 мл · 160 ₽",
+        "size": 24,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 250
+      }
+    ]
+  },
+  "v4_states.png": {
+    "width": 1000,
+    "height": 730,
+    "background": "#F3F0E8",
+    "layers": [
+      {
+        "type": "text",
+        "x": 20,
+        "y": 20,
+        "text": "01  ДО НАЖАТИЯ",
+        "size": 20,
+        "font": "bold",
+        "color": "#B9422B",
+        "w": 460
+      },
+      {
+        "type": "rect",
+        "x": 20,
+        "y": 60,
+        "w": 460,
+        "h": 280,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 44,
+        "y": 95,
+        "text": "Встреча соседей",
+        "size": 32,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "text",
+        "x": 44,
+        "y": 160,
+        "text": "12 ноября / 19:00",
+        "size": 23,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "rect",
+        "x": 44,
+        "y": 235,
+        "w": 412,
+        "h": 65,
+        "fill": "#20231F"
+      },
+      {
+        "type": "text",
+        "x": 64,
+        "y": 252,
+        "text": "Записаться",
+        "size": 25,
+        "font": "sans",
+        "color": "#FFFFFF",
+        "w": 370
+      },
+      {
+        "type": "text",
+        "x": 520,
+        "y": 20,
+        "text": "02  ОЖИДАНИЕ",
+        "size": 20,
+        "font": "bold",
+        "color": "#B9422B",
+        "w": 460
+      },
+      {
+        "type": "rect",
+        "x": 520,
+        "y": 60,
+        "w": 460,
+        "h": 280,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 544,
+        "y": 95,
+        "text": "Отправляем",
+        "size": 32,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "text",
+        "x": 544,
+        "y": 160,
+        "text": "Подтверждение еще не пришло",
+        "size": 23,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "rect",
+        "x": 544,
+        "y": 235,
+        "w": 412,
+        "h": 65,
+        "fill": "#6B7066"
+      },
+      {
+        "type": "text",
+        "x": 564,
+        "y": 252,
+        "text": "Подожди немного",
+        "size": 25,
+        "font": "sans",
+        "color": "#FFFFFF",
+        "w": 370
+      },
+      {
+        "type": "text",
+        "x": 20,
+        "y": 380,
+        "text": "03  УСПЕХ",
+        "size": 20,
+        "font": "bold",
+        "color": "#B9422B",
+        "w": 460
+      },
+      {
+        "type": "rect",
+        "x": 20,
+        "y": 420,
+        "w": 460,
+        "h": 280,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 44,
+        "y": 455,
+        "text": "Ты записан",
+        "size": 32,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "text",
+        "x": 44,
+        "y": 520,
+        "text": "12 ноября / 19:00",
+        "size": 23,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "rect",
+        "x": 44,
+        "y": 595,
+        "w": 412,
+        "h": 65,
+        "fill": "#20231F"
+      },
+      {
+        "type": "text",
+        "x": 64,
+        "y": 612,
+        "text": "Посмотреть адрес",
+        "size": 25,
+        "font": "sans",
+        "color": "#FFFFFF",
+        "w": 370
+      },
+      {
+        "type": "text",
+        "x": 520,
+        "y": 380,
+        "text": "04  ОШИБКА",
+        "size": 20,
+        "font": "bold",
+        "color": "#B9422B",
+        "w": 460
+      },
+      {
+        "type": "rect",
+        "x": 520,
+        "y": 420,
+        "w": 460,
+        "h": 280,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 544,
+        "y": 455,
+        "text": "Не получилось",
+        "size": 32,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "text",
+        "x": 544,
+        "y": 520,
+        "text": "Данные сохранены в форме",
+        "size": 23,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "rect",
+        "x": 544,
+        "y": 595,
+        "w": 412,
+        "h": 65,
+        "fill": "#B9422B"
+      },
+      {
+        "type": "text",
+        "x": 564,
+        "y": 612,
+        "text": "Попробовать снова",
+        "size": 25,
+        "font": "sans",
+        "color": "#FFFFFF",
+        "w": 370
+      }
+    ]
+  },
+  "v4_cards.png": {
+    "width": 1000,
+    "height": 650,
+    "background": "#F3F0E8",
+    "layers": [
+      {
+        "type": "rect",
+        "x": 15,
+        "y": 65,
+        "w": 460,
+        "h": 540,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 15,
+        "y": 12,
+        "text": "01  КОРОТКОЕ НАЗВАНИЕ",
+        "size": 22,
+        "font": "sans",
+        "color": "#B9422B",
+        "w": 800
+      },
+      {
+        "type": "rect",
+        "x": 525,
+        "y": 65,
+        "w": 460,
+        "h": 540,
+        "fill": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "x": 525,
+        "y": 12,
+        "text": "02  ДЛИННОЕ НАЗВАНИЕ",
+        "size": 22,
+        "font": "sans",
+        "color": "#B9422B",
+        "w": 800
+      },
+      {
+        "type": "rect",
+        "x": 45,
+        "y": 95,
+        "w": 400,
+        "h": 120,
+        "fill": "#DCD8CC"
+      },
+      {
+        "type": "text",
+        "x": 67,
+        "y": 130,
+        "text": "ДВОР / СОБЫТИЯ",
+        "size": 26,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 360
+      },
+      {
+        "type": "rect",
+        "x": 555,
+        "y": 95,
+        "w": 400,
+        "h": 120,
+        "fill": "#DCD8CC"
+      },
+      {
+        "type": "text",
+        "x": 577,
+        "y": 130,
+        "text": "ДВОР / СОБЫТИЯ",
+        "size": 26,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 360
+      },
+      {
+        "type": "text",
+        "x": 45,
+        "y": 250,
+        "text": "Встреча соседей",
+        "size": 34,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "text",
+        "x": 45,
+        "y": 310,
+        "text": "12 ноября / 19:00",
+        "size": 26,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 400
+      },
+      {
+        "type": "text",
+        "x": 555,
+        "y": 250,
+        "text": "Знакомство жителей\nнового корпуса\nи разговор о дворе",
+        "size": 32,
+        "font": "bold",
+        "color": "#20231F",
+        "w": 410
+      },
+      {
+        "type": "text",
+        "x": 555,
+        "y": 400,
+        "text": "12 ноября / 19:00",
+        "size": 26,
+        "font": "sans",
+        "color": "#20231F",
+        "w": 400
+      },
+      {
+        "type": "rect",
+        "x": 45,
+        "y": 400,
+        "w": 400,
+        "h": 65,
+        "fill": "#20231F"
+      },
+      {
+        "type": "text",
+        "x": 69,
+        "y": 417,
+        "text": "Подробнее",
+        "size": 25,
+        "font": "sans",
+        "color": "#FFFFFF",
+        "w": 350
+      },
+      {
+        "type": "rect",
+        "x": 555,
+        "y": 485,
+        "w": 400,
+        "h": 65,
+        "fill": "#20231F"
+      },
+      {
+        "type": "text",
+        "x": 579,
+        "y": 502,
+        "text": "Подробнее",
+        "size": 25,
+        "font": "sans",
+        "color": "#FFFFFF",
+        "w": 350
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "revision": "v4",
+  "word_pages": 30,
+  "chapters": 5,
+  "preface": true,
+  "images": 14,
+  "generated_scenes": 4,
+  "editable_diagrams": 10,
+  "all_source_paragraphs_present_in_docx": true,
+  "all_word_pages_visually_reviewed": true,
+  "toc_verified": true,
+  "figma_pages": 30,
+  "figma_text_matches_checked_word": true,
+  "figma_paragraph_overflow_count": 0,
+  "figma_photos_present": 4,
+  "author_approved": false,
+  "print_ready": false,
+  "source_sha256": "5aa63032b0c9cf4ae358c7e09ce846b0d916f32b3b0440f0a515c30a63210800",
+  "docx_sha256": "449049a5971bcf54b22380287a1ea45fe88dbc04ec199042462b022776a7959e"
+}
