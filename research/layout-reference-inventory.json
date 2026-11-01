@@ -1,0 +1,406 @@
+{
+  "date": "2026-11-01",
+  "source": "Архив mybook.zip, предоставленный автором",
+  "archive_sha256": "9b46d373c0f536135a6771206fe2ddacbedfab9741e88782897ee7ef9694bd49",
+  "file_count": 44,
+  "unique_count": 43,
+  "scope": "Анализ видимой композиции; полные книги, авторство дизайна и параметры производства не установлены",
+  "files": [
+    {
+      "file": "image 1.png",
+      "width": 1142,
+      "height": 1600,
+      "sha256": "4554b53c8eabe301d28a92b8260254945894f2d69d4a9052edc5438e2bf58e2f",
+      "id": "R01",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 2.png",
+      "width": 1472,
+      "height": 2208,
+      "sha256": "b4b8f3f4ef0a15d578f673b8139d5b5d04426d2c8a38dc68867b230e6e2fdaa7",
+      "id": "R02",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 3.png",
+      "width": 1456,
+      "height": 1712,
+      "sha256": "27e2df116b8a2e2baf11b4dc7ed49ec742d9bcb34c8ae13bd22470913fd7f32c",
+      "id": "R03",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 4.png",
+      "width": 2000,
+      "height": 4840,
+      "sha256": "881bb4c2318b0f12537e8dbf21bd7affe496428ee2e36ff42c82c34d7cc68ed1",
+      "id": "R04",
+      "duplicate_of": null,
+      "review": "overview_and_individual"
+    },
+    {
+      "file": "image 5.png",
+      "width": 1924,
+      "height": 2704,
+      "sha256": "ed2bf55caeef105bdcfc6b169bc9b2b8436bdbabc884a587d3d413f46edcec4c",
+      "id": "R05",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 6.png",
+      "width": 1200,
+      "height": 820,
+      "sha256": "9b19dcaaba59757bafdc9d81a72acdb35d379652eda58bd80917f6a21f468584",
+      "id": "R06",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 7.png",
+      "width": 1472,
+      "height": 2616,
+      "sha256": "94a49dfdac26a0b0c5850c64b4f290548e7d3be12997cc76d8e5671855a661ea",
+      "id": "R07",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 8.png",
+      "width": 2400,
+      "height": 3000,
+      "sha256": "e128d3339d6fb86a59d9a5f56c44b013165feb5758aee1565ded8899ceedd038",
+      "id": "R08",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 9.png",
+      "width": 1400,
+      "height": 1400,
+      "sha256": "1d98c57785df75682f938690b374911da0a2fefde559d986af049b41fd83b9ea",
+      "id": "R09",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 10.png",
+      "width": 1980,
+      "height": 4376,
+      "sha256": "524d68cd7cb05adc1f574e0cf0c7264eb1d85348c2d246172f58695e0a555c5f",
+      "id": "R10",
+      "duplicate_of": null,
+      "review": "overview_and_individual"
+    },
+    {
+      "file": "image 11.png",
+      "width": 1610,
+      "height": 3840,
+      "sha256": "a985f8ea12a46334f05815fbe1fc376ec490d0967ba8136b12023a71e578fd3e",
+      "id": "R11",
+      "duplicate_of": null,
+      "review": "overview_and_individual"
+    },
+    {
+      "file": "image 12.png",
+      "width": 1800,
+      "height": 2400,
+      "sha256": "842d79ff2b867af15fde4f50bb046809eb28b96b9b7a868894749cf4d014ca97",
+      "id": "R12",
+      "duplicate_of": null,
+      "review": "overview_and_individual"
+    },
+    {
+      "file": "image 13.png",
+      "width": 2400,
+      "height": 3600,
+      "sha256": "d1cee1a73f7276c2949cd2c9115092f0bdbac8641312edfed1d9787e2380bf75",
+      "id": "R13",
+      "duplicate_of": null,
+      "review": "overview_and_individual"
+    },
+    {
+      "file": "image 14.png",
+      "width": 1280,
+      "height": 1192,
+      "sha256": "7970e070a9048a84c74b86a777a03676949d5b136b95ea0856292e2402cd05df",
+      "id": "R14",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 15.png",
+      "width": 1472,
+      "height": 1962,
+      "sha256": "c9c9be2488e12fc978e56f3254f49b7c86829bc38317ec93745024bfe742ea6d",
+      "id": "R15",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 16.png",
+      "width": 2400,
+      "height": 1568,
+      "sha256": "cffb1e78837f22d02a065ba8db79bfa3f8432b8a08ec5cba8f92cd265c46e6ba",
+      "id": "R16",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 17.png",
+      "width": 2400,
+      "height": 3360,
+      "sha256": "0519f35979b2f8e5ac30027f4c8883471e9d33284b7f90b2259379f085f89aac",
+      "id": "R17",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 18.png",
+      "width": 2398,
+      "height": 1716,
+      "sha256": "f8c08d46386e3e515af218bcc97384538680616a8282d115f756c27cd9ad40f8",
+      "id": "R18",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 19.png",
+      "width": 1472,
+      "height": 1790,
+      "sha256": "9706d3548a9a5b9107347f934d6cac7ecf20d13a9094edf07a1e0f53856c5c10",
+      "id": "R19",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 20.png",
+      "width": 2400,
+      "height": 1800,
+      "sha256": "5a50352170ec15f0e24e7542f45b80adda684b91987ae675110ef5ba8d34a4c9",
+      "id": "R20",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 21.png",
+      "width": 1472,
+      "height": 1840,
+      "sha256": "d9b770e63281b47177dfb6617b2b54acc30c29a1c273845c9eaa2929265b9e7e",
+      "id": "R21",
+      "duplicate_of": null,
+      "review": "overview_and_individual"
+    },
+    {
+      "file": "image 22.png",
+      "width": 1920,
+      "height": 1354,
+      "sha256": "6fcb4d416a226fbed8b313cf22b8bd36150ee56218ae487d5b1e22b2b8174a66",
+      "id": "R22",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 23.png",
+      "width": 1470,
+      "height": 1826,
+      "sha256": "eaaa4d9f894afe5784d7f9dfda8995aa864ff16a5447b1ee4210de2e6e1af97d",
+      "id": "R23",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 24.png",
+      "width": 1470,
+      "height": 2080,
+      "sha256": "e3a737b9126d9c19e50d52026b534cca028eb3740fdea919b5d2171237f4de9e",
+      "id": "R24",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 25.png",
+      "width": 2160,
+      "height": 2160,
+      "sha256": "609f592c972663c50035cc5e87ec2547e895acd0837115e856597680c3f27b3c",
+      "id": "R25",
+      "duplicate_of": null,
+      "review": "overview_and_individual"
+    },
+    {
+      "file": "image 26.png",
+      "width": 1980,
+      "height": 4376,
+      "sha256": "524d68cd7cb05adc1f574e0cf0c7264eb1d85348c2d246172f58695e0a555c5f",
+      "id": "R26",
+      "duplicate_of": "R10",
+      "review": "overview"
+    },
+    {
+      "file": "image 27.png",
+      "width": 1296,
+      "height": 972,
+      "sha256": "da2d5ea41c01da3ad91daab614714f19ceb7df765101f0f7dc5311ff12fc8346",
+      "id": "R27",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 28.png",
+      "width": 1980,
+      "height": 2800,
+      "sha256": "c00b34c01c2d89472b5d79f40403ffa7ed71021e867e95164bd82b093ee1d937",
+      "id": "R28",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 29.png",
+      "width": 1080,
+      "height": 1440,
+      "sha256": "ea5c3b70b40cb756272d3a44106da278cc4243ba31d74f005db6ce749f154302",
+      "id": "R29",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 30.png",
+      "width": 1472,
+      "height": 2102,
+      "sha256": "c6bc1fb66acf4cfc4585f889acec3508ee9805c878c5f20ea250db8fa8ac4bf5",
+      "id": "R30",
+      "duplicate_of": null,
+      "review": "overview_and_individual"
+    },
+    {
+      "file": "image 31.png",
+      "width": 1838,
+      "height": 1246,
+      "sha256": "1879b125a2a392e99b043300ed55b5548ed990ab20a62aa167a07fa852b4cf12",
+      "id": "R31",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 32.png",
+      "width": 2400,
+      "height": 1564,
+      "sha256": "4d134f6d09a57855824216c07b0fa97da4a7a7ecdc6df54b77ab8e22886b7abf",
+      "id": "R32",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 33.png",
+      "width": 1470,
+      "height": 918,
+      "sha256": "8e4d5e3337fcc6e178a718995233304b91aecc7d1388d82442ac7d36419f0032",
+      "id": "R33",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 34.png",
+      "width": 1472,
+      "height": 1118,
+      "sha256": "e201df24dce532e08c18312f42a810f1811d2cfa258f8d542aa6807a7f01a38b",
+      "id": "R34",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 35.png",
+      "width": 1470,
+      "height": 1446,
+      "sha256": "9b0530912b05f4648853ad6a3ae75f78a718b087e3f69a866936c5cd148beb8c",
+      "id": "R35",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 36.png",
+      "width": 836,
+      "height": 1200,
+      "sha256": "a91fe89abc8c6783ea9a2eade4b87d6337fbace9a7977c8f74b30f5a7955a154",
+      "id": "R36",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 37.png",
+      "width": 2160,
+      "height": 2692,
+      "sha256": "368200b915fa095e7cf211a2c90c11d688bd48082b860194caa4a3293c529c03",
+      "id": "R37",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 38.png",
+      "width": 1440,
+      "height": 1440,
+      "sha256": "87dcdabc95ab669075600700f7247da2683a256fe89c85f6484f7b1710873b1d",
+      "id": "R38",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 39.png",
+      "width": 2398,
+      "height": 2422,
+      "sha256": "111a8895738ab301a9b84f46a927516a396e335ad8d03243f4dc67f83d3a49dc",
+      "id": "R39",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 40.png",
+      "width": 2400,
+      "height": 2400,
+      "sha256": "3d7e9fbd6cb202a2d95482adfb5987dd6f3895a0241d18eb52df070264b9512e",
+      "id": "R40",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 41.png",
+      "width": 2000,
+      "height": 2352,
+      "sha256": "2fcefe8581316cf3483f6c9660e4bf41d9c46340586b0ad9027f67d8c42b1a9e",
+      "id": "R41",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 42.png",
+      "width": 2400,
+      "height": 1600,
+      "sha256": "71bfc9b6f623cb7dbf07d55412bef864527019cca680720c574660e92fca944f",
+      "id": "R42",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 43.png",
+      "width": 1472,
+      "height": 1840,
+      "sha256": "681b573929ea43fbee96d85b7940fba5da5f05668b0b04e12d9810a6f49afc7f",
+      "id": "R43",
+      "duplicate_of": null,
+      "review": "overview"
+    },
+    {
+      "file": "image 44.png",
+      "width": 2400,
+      "height": 1696,
+      "sha256": "c63e9602292cf0195d7b2015609c2e6d50ee497aa8a4ba0f24870bcb8ef1d060",
+      "id": "R44",
+      "duplicate_of": null,
+      "review": "overview"
+    }
+  ]
+}
