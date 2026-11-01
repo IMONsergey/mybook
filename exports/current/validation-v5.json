@@ -1,0 +1,17 @@
+{
+  "layout_version": "v5",
+  "text_version": "v4",
+  "pages": 33,
+  "page_size_mm": [
+    190.01,
+    250.0
+  ],
+  "source_sha256": "5aa63032b0c9cf4ae358c7e09ce846b0d916f32b3b0440f0a515c30a63210800",
+  "source_blocks_used_once": 160,
+  "numbered_figures": 14,
+  "text_layers": 403,
+  "missing_text_layers_in_render": [],
+  "bounds_warnings": [],
+  "all_pngs_decoded": true,
+  "docx_sha256": "1627dad585330db7aea2b4d40e07bf29c24077c9526a05b7afcd6c9c50d59eff"
+}

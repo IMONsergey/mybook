@@ -1,0 +1,15 @@
+{
+  "version": "v5",
+  "pages": 33,
+  "textNodes": 403,
+  "photoPlacements": 20,
+  "errors": [],
+  "placeholders": [],
+  "visual_review": {
+    "pages": 33,
+    "spread_frames": 17,
+    "reviewer": "editor",
+    "author_approved": false,
+    "print_ready": false
+  }
+}
