@@ -1,0 +1,264 @@
+{
+  "checked": "2026-11-01",
+  "note": "GitHub API metadata only; license fields are not a legal audit. No repository was installed wholesale.",
+  "repositories": [
+    {
+      "repo": "jgm/pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "branch": "main",
+      "license": "GPL-2.0",
+      "archived": false,
+      "pushed_at": "2026-10-31T23:55:12Z"
+    },
+    {
+      "repo": "quarto-dev/quarto-cli",
+      "url": "https://github.com/quarto-dev/quarto-cli",
+      "description": "Open-source scientific and technical publishing system built on Pandoc.",
+      "branch": "main",
+      "license": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-10-30T15:57:36Z"
+    },
+    {
+      "repo": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "description": "A markup-based typesetting system that is powerful and easy to learn.",
+      "branch": "main",
+      "license": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2026-10-30T02:02:23Z"
+    },
+    {
+      "repo": "SILE-typesetter/sile",
+      "url": "https://github.com/sile-typesetter/sile",
+      "description": "The SILE Typesetter — Simon’s Improved Layout Engine",
+      "branch": "master",
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-11-01T01:02:48Z"
+    },
+    {
+      "repo": "pagedjs/pagedjs",
+      "url": "https://github.com/pagedjs/pagedjs",
+      "description": "Display paginated content in the browser and generate print books using web technology",
+      "branch": "main",
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-23T16:59:18Z"
+    },
+    {
+      "repo": "Kozea/WeasyPrint",
+      "url": "https://github.com/Kozea/WeasyPrint",
+      "description": "The awesome document factory",
+      "branch": "main",
+      "license": "BSD-3-Clause",
+      "archived": false,
+      "pushed_at": "2026-10-30T09:35:29Z"
+    },
+    {
+      "repo": "textlint/textlint",
+      "url": "https://github.com/textlint/textlint",
+      "description": "textlint is the pluggable linter for natural language text.",
+      "branch": "master",
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-30T08:33:40Z"
+    },
+    {
+      "repo": "languagetool-org/languagetool",
+      "url": "https://github.com/languagetool-org/languagetool",
+      "description": "Style and Grammar Checker for 25+ Languages",
+      "branch": "master",
+      "license": "LGPL-2.1",
+      "archived": false,
+      "pushed_at": "2026-11-01T12:38:51Z"
+    },
+    {
+      "repo": "typograf/typograf",
+      "url": "https://github.com/typograf/typograf",
+      "description": "📖 Типографика на JavaScript",
+      "branch": "dev",
+      "license": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-08-22T14:40:15Z"
+    },
+    {
+      "repo": "zotero/zotero",
+      "url": "https://github.com/zotero/zotero",
+      "description": "Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.",
+      "branch": "main",
+      "license": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-10-31T12:01:11Z"
+    },
+    {
+      "repo": "w3c/epubcheck",
+      "url": "https://github.com/w3c/epubcheck",
+      "description": "The conformance checker for EPUB publications",
+      "branch": "main",
+      "license": "BSD-3-Clause",
+      "archived": false,
+      "pushed_at": "2026-10-29T08:44:27Z"
+    },
+    {
+      "repo": "daisy/ace",
+      "url": "https://github.com/daisy/ace",
+      "description": "Ace by DAISY, an Accessibility Checker for EPUB",
+      "branch": "master",
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-05-01T10:14:02Z"
+    },
+    {
+      "repo": "Sigil-Ebook/Sigil",
+      "url": "https://github.com/Sigil-Ebook/Sigil",
+      "description": "Sigil is a multi-platform EPUB ebook editor",
+      "branch": "master",
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-10-31T14:22:07Z"
+    },
+    {
+      "repo": "pikepdf/pikepdf",
+      "url": "https://github.com/pikepdf/pikepdf",
+      "description": "A Python library for reading and writing PDF, powered by QPDF",
+      "branch": "main",
+      "license": "MPL-2.0",
+      "archived": false,
+      "pushed_at": "2026-10-25T08:26:23Z"
+    },
+    {
+      "repo": "qpdf/qpdf",
+      "url": "https://github.com/qpdf/qpdf",
+      "description": "qpdf: A content-preserving PDF document transformer",
+      "branch": "main",
+      "license": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2026-09-26T23:55:04Z"
+    },
+    {
+      "repo": "ocrmypdf/OCRmyPDF",
+      "url": "https://github.com/ocrmypdf/OCRmyPDF",
+      "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+      "branch": "main",
+      "license": "MPL-2.0",
+      "archived": false,
+      "pushed_at": "2026-10-25T07:47:57Z"
+    },
+    {
+      "repo": "fonttools/fonttools",
+      "url": "https://github.com/fonttools/fonttools",
+      "description": "A library to manipulate font files from Python.",
+      "branch": "main",
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-27T20:09:09Z"
+    },
+    {
+      "repo": "fonttools/fontbakery",
+      "url": "https://github.com/fonttools/fontbakery",
+      "description": "🧁 A font quality assurance tool for everyone ",
+      "branch": "main",
+      "license": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2025-11-04T18:52:25Z"
+    },
+    {
+      "repo": "brycehamrick/editorial-skills",
+      "branch": "main",
+      "archived": false,
+      "pushed_at": "2026-03-23T21:25:31Z",
+      "url": "https://github.com/brycehamrick/editorial-skills",
+      "license": "unconfirmed"
+    },
+    {
+      "repo": "AdrianMastronardi/bookwright",
+      "branch": "main",
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-06-22T22:07:15Z",
+      "url": "https://github.com/AdrianMastronardi/bookwright"
+    },
+    {
+      "repo": "swiftugandan/book-writing-skill",
+      "branch": "main",
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-07-27T09:48:30Z",
+      "url": "https://github.com/swiftugandan/book-writing-skill"
+    },
+    {
+      "repo": "blader/humanizer",
+      "branch": "main",
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-28T07:17:33Z",
+      "url": "https://github.com/blader/humanizer"
+    },
+    {
+      "repo": "rhavekost/author-toolkit",
+      "branch": "main",
+      "license": "NOASSERTION",
+      "archived": false,
+      "pushed_at": "2026-10-28T18:23:13Z",
+      "url": "https://github.com/rhavekost/author-toolkit"
+    },
+    {
+      "repo": "luquiluke/claude-book-skill",
+      "branch": "main",
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-07-07T15:45:17Z",
+      "url": "https://github.com/luquiluke/claude-book-skill"
+    },
+    {
+      "repo": "Calliope-Editor/writing-skills",
+      "branch": "main",
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-07-16T16:41:04Z",
+      "url": "https://github.com/Calliope-Editor/writing-skills"
+    },
+    {
+      "repo": "anthropics/skills",
+      "branch": "main",
+      "archived": false,
+      "pushed_at": "2026-10-28T19:20:39Z",
+      "url": "https://github.com/anthropics/skills",
+      "license": "unconfirmed"
+    },
+    {
+      "repo": "vale-cli/vale",
+      "url": "https://github.com/vale-cli/vale",
+      "branch": "v3",
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-10-31T19:13:06Z"
+    },
+    {
+      "repo": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "branch": "main",
+      "license": "unconfirmed",
+      "archived": false,
+      "pushed_at": "2026-10-28T17:31:41Z"
+    },
+    {
+      "repo": "edrlab/thorium-reader",
+      "url": "https://github.com/edrlab/thorium-reader",
+      "branch": "develop",
+      "license": "BSD-3-Clause",
+      "archived": false,
+      "pushed_at": "2026-10-30T23:26:15Z"
+    },
+    {
+      "repo": "kovidgoyal/calibre",
+      "url": "https://github.com/kovidgoyal/calibre",
+      "branch": "master",
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2026-11-01T09:34:54Z"
+    }
+  ]
+}

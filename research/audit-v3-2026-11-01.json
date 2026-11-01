@@ -1,0 +1,367 @@
+{
+  "schema_version": 1,
+  "source": "manuscript/source.md",
+  "source_sha256": "c9bdba461725bd946595ab2c2bfef442288f77c6d4888b499525f0f8f7bbab59",
+  "word_count_method": "Whitespace tokens; heading markers and full FIGURE markers excluded; title/author included.",
+  "stats": {
+    "characters_with_spaces": 16193,
+    "words_excluding_figure_markers": 2272,
+    "yo_count": 91,
+    "em_dash_count": 0,
+    "figure_count": 6,
+    "errors": 0,
+    "warnings": 52
+  },
+  "assets": [
+    {
+      "path": "fig01_voice.png",
+      "width": 2400,
+      "height": 760,
+      "width_mm_at_300ppi": 203.2
+    },
+    {
+      "path": "fig02_poster.png",
+      "width": 2400,
+      "height": 1200,
+      "width_mm_at_300ppi": 203.2
+    },
+    {
+      "path": "fig03_context.png",
+      "width": 2400,
+      "height": 1150,
+      "width_mm_at_300ppi": 203.2
+    },
+    {
+      "path": "fig05_wrappers.png",
+      "width": 2400,
+      "height": 1200,
+      "width_mm_at_300ppi": 203.2
+    },
+    {
+      "path": "fig04_neighbours.png",
+      "width": 2400,
+      "height": 1200,
+      "width_mm_at_300ppi": 203.2
+    },
+    {
+      "path": "fig06_empty_state.png",
+      "width": 2400,
+      "height": 1100,
+      "width_mm_at_300ppi": 203.2
+    }
+  ],
+  "issues": [
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 7,
+      "message": "Символ 'ё': 4. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 9,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 11,
+      "message": "Символ 'ё': 2. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 15,
+      "message": "Символ 'ё': 3. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 17,
+      "message": "Символ 'ё': 2. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 20,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 22,
+      "message": "Символ 'ё': 2. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 24,
+      "message": "Символ 'ё': 2. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 26,
+      "message": "Символ 'ё': 3. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 28,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 32,
+      "message": "Символ 'ё': 4. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 34,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 38,
+      "message": "Символ 'ё': 4. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 40,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 44,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 48,
+      "message": "Символ 'ё': 2. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 54,
+      "message": "Символ 'ё': 2. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 58,
+      "message": "Символ 'ё': 3. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 60,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 62,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 68,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 76,
+      "message": "Символ 'ё': 2. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 78,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 84,
+      "message": "Символ 'ё': 2. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 91,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 97,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 99,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 101,
+      "message": "Символ 'ё': 4. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 103,
+      "message": "Символ 'ё': 2. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 107,
+      "message": "Символ 'ё': 6. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 109,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 113,
+      "message": "Символ 'ё': 2. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 115,
+      "message": "Символ 'ё': 3. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 117,
+      "message": "Символ 'ё': 4. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 119,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 127,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 129,
+      "message": "Символ 'ё': 2. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 133,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 137,
+      "message": "Символ 'ё': 3. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 141,
+      "message": "Символ 'ё': 3. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 143,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 145,
+      "message": "Символ 'ё': 2. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 149,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 153,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 159,
+      "message": "Символ 'ё': 1. Проверить правило автора."
+    },
+    {
+      "code": "yo",
+      "severity": "warning",
+      "line": 161,
+      "message": "Символ 'ё': 2. Проверить правило автора."
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 28,
+      "message": "Права требуют записи/подтверждения: fig01_voice.png"
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 52,
+      "message": "Права требуют записи/подтверждения: fig02_poster.png"
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 74,
+      "message": "Права требуют записи/подтверждения: fig03_context.png"
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 93,
+      "message": "Права требуют записи/подтверждения: fig05_wrappers.png"
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 111,
+      "message": "Права требуют записи/подтверждения: fig04_neighbours.png"
+    },
+    {
+      "code": "rights_unverified",
+      "severity": "warning",
+      "line": 157,
+      "message": "Права требуют записи/подтверждения: fig06_empty_state.png"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+asset_id,source,creator,status,permission_reference,font_review,notes
+fig01_voice.png,tools/build_figures.py,project_generated,unverified,,pending,"Учебный макет проекта; зафиксировать авторство, права на элементы и условия шрифтов до выпуска."
+fig02_poster.png,tools/build_figures.py,project_generated,unverified,,pending,"Учебный макет проекта; зафиксировать авторство, права на элементы и условия шрифтов до выпуска."
+fig03_context.png,tools/build_figures.py,project_generated,unverified,,pending,"Учебный макет проекта; зафиксировать авторство, права на элементы и условия шрифтов до выпуска."
+fig04_neighbours.png,tools/build_figures.py,project_generated,unverified,,pending,"Учебный макет проекта; зафиксировать авторство, права на элементы и условия шрифтов до выпуска."
+fig05_wrappers.png,tools/build_figures.py,project_generated,unverified,,pending,"Учебный макет проекта; зафиксировать авторство, права на элементы и условия шрифтов до выпуска."
+fig06_empty_state.png,tools/build_figures.py,project_generated,unverified,,pending,"Учебный макет проекта; зафиксировать авторство, права на элементы и условия шрифтов до выпуска."
